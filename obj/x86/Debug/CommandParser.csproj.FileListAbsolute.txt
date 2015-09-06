@@ -1,4 +1,0 @@
-D:\!Web-Sites\CommandParser\CommandParser\bin\Debug\CommandParser.exe
-D:\!Web-Sites\CommandParser\CommandParser\bin\Debug\CommandParser.pdb
-D:\!Web-Sites\CommandParser\CommandParser\obj\x86\Debug\CommandParser.exe
-D:\!Web-Sites\CommandParser\CommandParser\obj\x86\Debug\CommandParser.pdb
